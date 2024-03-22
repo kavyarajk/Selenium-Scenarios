@@ -7,5 +7,6 @@ Author : Kavya
    Add to Cart functionality
    Payment Functionality
    check for email confirmation
+    Add the OTP feature and check
 
    
