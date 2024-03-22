@@ -1,0 +1,10 @@
+Selenium-Scenarios
+
+Author : Kavya
+   Login Feature
+   Register Functionality
+   Search Function
+   Add to Cart functionality
+   Payment Functionality
+
+   
