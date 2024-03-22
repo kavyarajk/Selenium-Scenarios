@@ -6,5 +6,6 @@ Author : Kavya
    Search Function
    Add to Cart functionality
    Payment Functionality
+   check for email confirmation
 
    
